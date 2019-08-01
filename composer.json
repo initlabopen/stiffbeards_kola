@@ -1,0 +1,10 @@
+{
+    "name": "stiffbeards/kola",
+    "description": "",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Kola": "lib/"
+        }
+    }
+}
